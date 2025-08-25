@@ -1,4 +1,4 @@
-module github.com/Shashank-raj1907/go-bookstore
+module github.com/shraj19/go-bookstore
 
 go 1.25.0
 
