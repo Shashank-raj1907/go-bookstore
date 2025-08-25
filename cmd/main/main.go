@@ -6,7 +6,7 @@ import (
 
 	"github.com/gorilla/mux"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
-	"github.com/Shashank-raj1907/go-bookstore/pkg/routes"
+	"github.com/shraj19/go-bookstore/pkg/routes"
 )
 
 func main() {
